@@ -1,6 +1,6 @@
 /* ===== API Module ===== */
 
-const API_BASE = 'http://localhost:5000/api';
+const API_BASE = 'https://garbage-detection-rk9g.onrender.com/api';
 
 /**
  * Generic fetch wrapper with error handling.
